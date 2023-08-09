@@ -1,5 +1,5 @@
 <?php
-$heading = "About Us";
+$heading = "Our Services";
 
 //require
 require "views/about.view.php";
